@@ -1,0 +1,12 @@
+{
+  "name": "@branu-jp/define-nested-object",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["object", "nested"],
+  "author": "BRANU",
+  "license": "MIT"
+}
